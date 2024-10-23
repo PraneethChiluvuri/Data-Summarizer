@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: vremenagroteskmedium
+font link: https://www.fontspring.com/fonts/abstrkt/vremena?utm_source=fontsquirrel.com&utm_medium=download_link&utm_campaign=vremena-grotesk#firstfreeproduct
+font author: ABSTRKT
+font author site: 
+
+
+icon designer: DinosoftLabs
+icon designer link: /dinosoftlab
+        
+{"bg":"#50A6D8","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
